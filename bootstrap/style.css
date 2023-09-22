@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+header{
+    background: linear-gradient(33deg, #FFD704 19%, #DE0A0A 90%);
+}
+
+#amarelo_cima{
+    max-height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#whats{
+    border: none;
+    background-color: #0BD42B;
+    border-radius: 20px;
+    height: 28px;
+    width: 149px;
+    color: white;
+}
+
+#cima{
+    width: 186px;
+    height: 24px;
+    font-size: 20px;
+}
+
+#imagem{
+    background: #ffffff url(ImagemBurguer/imagem\ 1.jpeg) center center/cover no-repeat;
+    height: 500px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#Sabor{
+    color: white;
+    font-size: 64px;
+
+}
+
+#Exigentes{
+    color: white;
+    font-size: 20px;
+}
+
+#vermais{
+    border: none;
+    background-color: #DE0A0A;
+    color: white;
+    border-radius: 18px;
+    width: 260px;
+    height: 41px;
+}
+
+#hamburg{
+    border-radius: 10px;
+    background: #ffffff url(ImagemBurguer/imagem\ 2.jpeg) center center/cover no-repeat;
+    width: 464px;
+    height: 188px;
+    top: 46px;
+    left: 123px;
+    border-radius: 10px;
+    
+
+}
+
+#combo{
+    border-radius: 10px;
+    background: #ffffff url(ImagemBurguer/imagem\ 3.jpeg) center center/cover no-repeat;
+    width: 482px;
+    height: 188px;
+    top: 46px;
+    left: 679px;
+    padding: 48px, 23px, 73px, 253px;
+
+}
+#imagem2{
+    background: #ffffff url(/ImagemBurguer/imagem\ 4.jpeg) center center/contain no-repeat;
+    width: 301px;
+    height: 193px;
+    top: 41px;
+    left: 122px;
+    border-radius: 10px;
+
+}
+
+
+#burguer1{
+    background-color: #ffffff;
+    width: 1280px;
+    height: 300px;
+    
+}
+
+#eu-quero{
+    background-color: #DE0A0A;
+    width: 182px;
+    height: 45px;
+    top: 123px;
+    left: 988px;
+    padding: 8px, 25px, 8px, 25px;
+    border-radius: 20px;
+}
+
+#burguer2{
+    background-color: #ebdfa9;
+    width: 1280px;
+    height: 300px;
+    top: 300px;
+}
+
+#burguer3{
+    background-color: #ffffff;
+    width: 1280px;
+    height: 300px;
+    top: 600px;
+}
+
+
